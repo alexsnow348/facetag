@@ -16,12 +16,12 @@
   conda activate CV
   ```
 
-  3. (Optional) If want to train on own image, follow the instrution from [***Facenet***](https://github.com/davidsandberg/facenet).
+  3. (Optional) If want to train on own image, follow the instructions from [***Facenet***](https://github.com/davidsandberg/facenet).
 
   4. Run the test on single image.
 
   ```bash
-  python image.py --img_filename [PATH OF TEST IMAG] --save_filename [NAME TO SAVE RESULT]
+  python image.py --img_filename [PATH OF TEST IMAGE] --save_filename [NAME TO SAVE RESULT]
   ```
   5. Run the real time video.
 
