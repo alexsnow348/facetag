@@ -2,7 +2,9 @@
 
 ![FaceTag](explain.jpg)
 
+## Real-time test result:
 
+![real-time test result](video_result.gif)
 
 ## Steps on how to run:
 
