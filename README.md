@@ -1,13 +1,14 @@
 
 
-![FaceTag](explain.jpg)
 
-![real-time test result](facenet-arc.gif)
+Details Explanation in Burmese:
+![FaceTag](explain.jpg)(https://www.youtube.com/watch?v=w05oosmFsxM)
 
 Details Explanation of FaceNet: [here](https://drive.google.com/file/d/1TwXJgNqA-nfcGyrZ_OlpBIshMgiJu82z/view?usp=sharing)
 
-Details Explanation in Burmese:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w05oosmFsxM?si=dWGtMADpZNLmmG5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+![real-time test result](facenet-arc.gif)
+
+
 
 ## Real-time test result:
 
