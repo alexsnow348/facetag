@@ -1,8 +1,8 @@
 
 
 
-
-![FaceTag](explain.jpg)
+### FaceNet Implementation:
+Face Recognition system trained using FaceNet for 81 people. Accuracy is around 70% achieved.
 
 Details Explanation of FaceNet: [here](https://drive.google.com/file/d/1TwXJgNqA-nfcGyrZ_OlpBIshMgiJu82z/view?usp=sharing)
 
