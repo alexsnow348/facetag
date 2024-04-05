@@ -2,7 +2,10 @@
 
 ![FaceTag](explain.jpg)
 
+![real-time test result](facenet-arc.gif)
+
 Details Explanation of FaceNet: [here](https://drive.google.com/file/d/1TwXJgNqA-nfcGyrZ_OlpBIshMgiJu82z/view?usp=sharing)
+
 
 ## Real-time test result:
 
