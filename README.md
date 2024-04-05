@@ -1,14 +1,14 @@
 
 
 
-Details Explanation in Burmese:
-![FaceTag](explain.jpg)(https://www.youtube.com/watch?v=w05oosmFsxM)
+
+![FaceTag](explain.jpg)
 
 Details Explanation of FaceNet: [here](https://drive.google.com/file/d/1TwXJgNqA-nfcGyrZ_OlpBIshMgiJu82z/view?usp=sharing)
 
 ![real-time test result](facenet-arc.gif)
 
-
+[Click here for Details Explanation in Burmese YouTube Video](https://www.youtube.com/watch?v=w05oosmFsxM)
 
 ## Real-time test result:
 
